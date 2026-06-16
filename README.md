@@ -124,6 +124,10 @@ A hybrid **neuro-symbolic** architecture for real-time F1 strategy reasoning —
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhinavs-Repositories&bg_color=0d1117&color=e2e8f0&line=38bdf8&point=818cf8&area=true&area_color=38bdf8&title_color=38bdf8&hide_border=true&custom_title=Contribution%20Activity&radius=12" width="98%" alt="Activity graph"/>
 
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/Abhinavs-Repositories/Abhinavs-Repositories/output/snake-dark.svg" width="98%" alt="Contribution snake"/>
+
 </div>
 
 <img src="./assets/divider.svg" width="100%" alt=""/>
